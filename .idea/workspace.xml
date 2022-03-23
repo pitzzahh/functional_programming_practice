@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="405f2577-e50d-490d-b051-ee6ebbbac6b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/imperative/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/students.json" afterDir="false" />
+    <list default="true" id="405f2577-e50d-490d-b051-ee6ebbbac6b5" name="Changes" comment="removed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/imperative/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/imperative/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +69,21 @@
       <option name="presentableId" value="Default" />
       <updated>1648038458372</updated>
     </task>
+    <task id="LOCAL-00001" summary="added git ignore">
+      <created>1648040131795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648040131795</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed">
+      <created>1648040159229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648040159229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added git ignore" />
+    <MESSAGE value="removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed" />
   </component>
 </project>
