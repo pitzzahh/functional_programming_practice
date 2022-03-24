@@ -51,7 +51,7 @@ public class Main {
         System.out.println("// Printing females from the list");
         // Printing females from the list
         people.stream()
-                .filter(person -> FEMALE.equals(person.gender))
+                .filter(person -> person.gender.equals(FEMALE))
                 .toList()
                 .forEach(System.out::println);
 
@@ -59,7 +59,7 @@ public class Main {
         // Printing males from the list
 
         people.stream()
-                .filter(person -> MALE.equals(person.gender))
+                .filter(person -> person.gender.equals(MALE))
                 .toList()
                 .forEach(System.out::println);
     }
