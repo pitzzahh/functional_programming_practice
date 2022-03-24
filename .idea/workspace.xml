@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="405f2577-e50d-490d-b051-ee6ebbbac6b5" name="Changes" comment="reverted Person class to a normal class">
+    <list default="true" id="405f2577-e50d-490d-b051-ee6ebbbac6b5" name="Changes" comment="quick upload">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/imperative/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/imperative/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/functionalinterface/_Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_Function.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648040467190</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="quick upload">
+      <created>1648088220563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648088220563</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,7 +133,8 @@
     <MESSAGE value="added git ignore" />
     <MESSAGE value="removed" />
     <MESSAGE value="reverted Person class to a normal class" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverted Person class to a normal class" />
+    <MESSAGE value="quick upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="quick upload" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/functional_programming$Main.ic" NAME="Main Coverage Results" MODIFIED="1648040305605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

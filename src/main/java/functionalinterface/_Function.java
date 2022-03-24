@@ -2,6 +2,7 @@ package functionalinterface;
 import java.util.function.BiFunction;
 import java.util.function.Function;
 public class _Function {
+
     static int result;
     public static void main(String[] args) {
         regularFunctionVsFunctionalInterface();
