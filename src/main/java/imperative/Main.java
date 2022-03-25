@@ -29,6 +29,7 @@ public class Main {
                 females.add(person);
             }
         }
+
         // Printing females in the list
         for (Person female : females) {
             System.out.println(female);
@@ -80,6 +81,7 @@ public class Main {
                     '}';
         }
     }
+
     enum Gender {
         MALE, FEMALE
     }
